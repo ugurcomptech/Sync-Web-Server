@@ -114,6 +114,29 @@ Konfigürasyon dosyalarını düzenledikten sonra Apache'yi yeniden başlatın:
 systemctl restart apache2
 ```
 
+## TEST
+
+
+
+### MAİN WEB SUNUCUSU
+
+Sunucu içerinden belirtmiş olunan dosya yoluna değişiklik yapıldığında 1 dakika içerisinde backup web sunucusunda da aynı sayfa güncellenmiş oluyor.
+
+![image](https://github.com/user-attachments/assets/e6f34373-99e9-426f-9cab-00b3b309d413)
+
+
+### BACKUP WEB SUNUCUSU
+
+![image](https://github.com/user-attachments/assets/d6235319-343b-4a96-a3bd-bba172860d14)
+
+
+
+
+
+
+
+
+
 --------------------------------------------------------
 
 Bu rehber, iki senkronize web sunucusu oluşturmanız ve yapılandırmanız için gereken adımları kapsamaktadır.
