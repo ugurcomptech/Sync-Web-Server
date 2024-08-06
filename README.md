@@ -1,4 +1,4 @@
-# Sync-Web-Server
+# Senkronize Web Sunucuları 
 
 Bu proje, iki web sunucusunun senkronize bir şekilde çalışmasını ve her iki sunucuda da Apache web sunucusunun yapılandırılmasını sağlar. Ayrıca, dosya senkronizasyonu için `rsync` kullanarak içeriklerin otomatik olarak güncellenmesini sağlar.
 
